@@ -21,7 +21,7 @@ bug you ran into).
 
 #### Pip Install
 
-**Requires Python 3.8 or greater**
+**Requires Python 3.9 or greater**
 
 You can install PyRS990 easily using `pip`: `pip install pyrs990` or
 `pip install --user pyrs990` if you're not in a virtual environment and
@@ -45,12 +45,12 @@ the Docker container.
 
 #### Clone the Code
 
-**Requires Python 3.8 or greater**
+**Requires Python 3.9 or greater**
 
 You can also clone the repo to use it, but this probably isn't the way
 to go for non-developers.
 
-  1. Make sure you have Python 3.8 available
+  1. Make sure you have Python 3.9 or greater available
   1. Install [Poetry](https://python-poetry.org/) if you don't already have it
   1. Clone the whole repo, `cd` into the `pyrs990` directory
   1. Install dependencies - `poetry install`
@@ -67,7 +67,7 @@ This project uses [Poetry](https://python-poetry.org/) because it's pretty slick
 and does a lot of stuff automatically and the developers are not usually Python
 people, so that's great!
 
-  1. Make sure you have Python 3.8 available
+  1. Make sure you have Python 3.9 or greater available
   1. Install [Poetry](https://python-poetry.org/) if you don't already have it
   1. Clone the whole repo, `cd` into the `pyrs990` directory
   1. Install dependencies - `poetry install`

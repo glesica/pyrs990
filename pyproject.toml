@@ -8,8 +8,8 @@ authors = [
 ]
 license = "GPL-3.0"
 readme = "README.md"
-homepage = "https://github.com/code-for-montana/pyrs990"
-repository = "https://github.com/code-for-montana/pyrs990"
+homepage = "https://github.com/glesica/pyrs990"
+repository = "https://github.com/glesica/pyrs990"
 keywords = ["open data", "irs", "irs 990", "etl"]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -25,7 +25,7 @@ classifiers = [
 pyrs990 = "pyrs990.entry_point:entry_point"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.9"
 requests = "^2.23.0"
 defusedxml = "^0.6.0"
 
